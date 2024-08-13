@@ -2,25 +2,25 @@
 
 ## 1、Linux目录结构
 
-![image-20240621153955483](D:\Typora\笔记文件\Linux\第2章Linux基础命令.assets/image-20240621153955483.png)
+![image-20240621153955483](%E7%AC%AC2%E7%AB%A0Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4.assets/image-20240621153955483.png)
 
 ## notes：Linux路径描述方式
 
-![image-20240621154035328](D:\Typora\笔记文件\Linux\第2章Linux基础命令.assets/image-20240621154035328.png)
+![image-20240621154035328](%E7%AC%AC2%E7%AB%A0Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4.assets/image-20240621154035328.png)
 
 
 
 ## 2、Linux命令基础格式
 
-![image-20240621154245994](D:\Typora\笔记文件\Linux\第2章Linux基础命令.assets/image-20240621154245994.png)
+![image-20240621154245994](%E7%AC%AC2%E7%AB%A0Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4.assets/image-20240621154245994.png)
 
 ## notes：Home目录
 
 ==每个用户登录时的默认工作目录==
 
-![image-20240621154952731](D:\Typora\笔记文件\Linux\第2章Linux基础命令.assets/image-20240621154952731.png)
+![image-20240621154952731](%E7%AC%AC2%E7%AB%A0Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4.assets/image-20240621154952731.png)
 
-![image-20240621155412583](D:\Typora\笔记文件\Linux\第2章Linux基础命令.assets/image-20240621155412583.png)
+![image-20240621155412583](%E7%AC%AC2%E7%AB%A0Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4.assets/image-20240621155412583.png)
 
 
 
@@ -30,7 +30,7 @@
 
 ### （1）ls命令（展示文件目录的命令）
 
-![image-20240621154917185](D:\Typora\笔记文件\Linux\第2章Linux基础命令.assets/image-20240621154917185.png)
+![image-20240621154917185](%E7%AC%AC2%E7%AB%A0Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4.assets/image-20240621154917185.png)
 
 #### notes：ls命令的 `-a -l -h`选项
 
